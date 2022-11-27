@@ -31,4 +31,4 @@ https://www.w3schools.com/
 https://developer.mozilla.org/en-US/
 
 ## License
-MIT Lucense
+MIT License
